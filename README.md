@@ -19,5 +19,3 @@ sudo make clean install
 - [hidecursor](https://st.suckless.org/patches/hidecursor/)
 - [lukesmith-externalpipe](https://github.com/aimerneige/st/blob/master/patches/st-lukesmith-externalpipe.diff)
 - [scrollback](https://st.suckless.org/patches/scrollback/)
-
-<!-- https://github.com/theniceboy/st/tree/master/patches -->
